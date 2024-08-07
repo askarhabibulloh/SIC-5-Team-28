@@ -8,7 +8,6 @@ Proyek ini menggunakan ESP32 untuk merekam audio, mengirimkan data ke server Fla
 - Modul MAX4466
 - Modul OLED 128x64
 - Tombol
-- Kartu SD dan modul SD card reader
 
 ## Instalasi Arduino
 
